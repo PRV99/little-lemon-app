@@ -1,1 +1,1 @@
-# little-lemon-app
+# Little-Lemon
